@@ -11,11 +11,8 @@ function forLoop(arr) {
 
 function whileLoop(num) {
   while (num > 0) {
-    if (num > 0) {
       num--;
       console.log(num);
-    } else if (num == 0) {
+    }
   console.log("done");
-  }
-}
 }
