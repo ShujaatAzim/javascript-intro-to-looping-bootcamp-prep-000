@@ -13,7 +13,6 @@ function whileLoop(num) {
   while (num > 0) {
     num--;
     console.log(num);
-  if (num == 0) {
-  console.log('done');
   }
+  console.log("done");
 }
